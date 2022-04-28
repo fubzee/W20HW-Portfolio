@@ -46,6 +46,8 @@ over all IT experienceand a link to some contact details.
 Code Repositiry - Git
 Deployment - Git pages
 
+![image](https://user-images.githubusercontent.com/94102473/165784743-8e266634-3147-406a-b00e-e73e1a3a8be5.png)
+
 
 ## Licence
 ---
