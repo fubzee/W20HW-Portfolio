@@ -20,16 +20,16 @@ export default function FSD() {
       <div className= "container">
           <div className = "row">
               <div className = "col-md-3">
-                <img id="mongo" alt="" src="./images/Mongo.png" width = "150" height = "59"></img>
+                <img id="mongo" alt="" src="./Mongo.png" width = "150" height = "59"></img>
               </div>
               <div className = "col-md-3">
-                <img id="express" alt="" src="./images/Express.png" width = "110" height = "83"></img>
+                <img id="express" alt="" src="./Express.png" width = "110" height = "83"></img>
               </div>
               <div className = "col-md-3">
-                <img id="react" alt="" src="./images/react.png" width = "146" height = "67"></img>
+                <img id="react" alt="" src="./react.png" width = "146" height = "67"></img>
               </div>
               <div className = "col-md-3">
-                <img id="node" alt="" src="./images/node.png" width = "150" height = "93"></img>
+                <img id="node" alt="" src="./node.png" width = "150" height = "93"></img>
               </div>
           </div>
           <div className = "row">

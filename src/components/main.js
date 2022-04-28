@@ -42,19 +42,19 @@ export default function main() {
         </div>
         <div className = "container">
             <div className="row">
-                <div className = "col-md-3" >
+                <div className = "col-md-4" >
                     <section className="BannerBox">
-                        {/* <img src="Port-AW.gif" alt=""></img> */}
+                   
                     </section>
                 </div>
-                <div className = "col-md-6" >
+                <div className = "col-md-4" >
                     <section className="BannerBox">
-                        <img id="heroimg" alt="" src="1075701.jpg" width = "560" height = "518"></img>
+                        <img id="heroimg" alt="" src="./1075701.jpg" width = "560" height = "518"></img>
                     </section>
                 </div>
-                <div className = "col-md-3" >
+                <div className = "col-md-4" >
                     <section className="BannerBox">
-                        {/* <img src="Port-AW.gif" alt=""></img> */}
+                  
                     </section>
                 </div>
             <div className ="row">

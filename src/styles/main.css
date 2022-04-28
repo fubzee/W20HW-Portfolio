@@ -98,9 +98,11 @@ nav  {
   border-color: var(--nav-border-color);
 }
 
-.bi{
+.i{
   color: rgb(106, 179,196);
 }
+
+
 #img2::after{
 
 
@@ -126,6 +128,8 @@ hr {
   font-size: 0.75em;
 } 
 
+
+
 footer{  
 
   justify-content: center;
@@ -141,6 +145,14 @@ footer p {
   text-align: center;
 }
 
+.credits {
+  text-align: center;
+  background-color: var(--all-primary-background);
+  font-family: var(--all-font);
+  font-size: 0.75em;
+  color: #5Fc8FF;
+  
+}
 
 #ContactDetails{
   background: var(--all-primary-backgound);
@@ -179,17 +191,6 @@ footer p {
   text-align: justify; 
   font-family: var(--all-font);
 }
-
-.credits {
-
-  color: #5Fc8FF;
-  font-size: 1.0em;
-}
-
-nav {
-  color: #f5a6d7;
-}
-
 .label {
   color: #0A192F;
 }
