@@ -1,12 +1,40 @@
-import React from "react";
-// import Tech from "./technology";
+import '../styles/main.css';
 import projectData from './projectdata';
-
-// function Project(props) {
-function Project () {
+import { Link } from 'react-router-dom';
+export default function Projects() {
     return (
-        <div>
-        {projectData.map(project => (
+    <div>
+       <div className="container">
+        <div className="row">
+            <div className = "col-md-3"> 
+                <img id="headimg" alt="" src="./AvatarMe.png" width = "300" height = "183"></img>
+            </div>
+            <div className = "col-md-3">    
+                <Link
+                className="button"
+                    to={`/`} 
+                    >Home
+                </Link>
+            </div> 
+            <div className = "col-md-3"> 
+                <Link
+                    className="button"
+                    to={`/aboutme`} 
+                    >About Me
+                </Link>
+            </div>
+            <div className = "col-md-3"> 
+                <Link
+                    className="button"
+                    to={`/Contacts`}
+                    >Contact Details
+                </Link>
+            </div>
+        </div>
+    </div>
+
+    <h2 id="Projects"> Projects</h2>
+    {projectData.map(project => (
         <div>
             <br></br>
             <div className = "container">
@@ -48,6 +76,6 @@ function Project () {
         </div>
     ))}
     </div>
-)}
+    )
+}
 
-export default Project

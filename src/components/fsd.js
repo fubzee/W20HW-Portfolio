@@ -4,7 +4,11 @@ import '../styles/main.css';
 export default function FSD() {
   return (
     <div>
+      <br></br>
+      <br></br>
       <h3>Full Stack Developer</h3>
+      <br></br>
+      <br></br>
       <div className = "col-md-12 align-self-start">
         <p>Coding Bootcamp - Sydney University with Trinity Education Services focused on the MERN stack</p>
           <ul>

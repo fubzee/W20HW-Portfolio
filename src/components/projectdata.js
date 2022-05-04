@@ -4,7 +4,7 @@ const projects = [
         title: 'Chores to Do',
         description: 'This application addresses the issue many parents face when trying to teach their children about responsibilty, accountabilty and rewards are earned through hard work and setting goals.  The application is essentially a tool a parent can use to set up a list of tasks or chores for the child and allocates a value to the chore.  The parent also sets up the child\'s user access and can set a goal or total reward value. When the child completes the chore they are able to log in and mark the task as done/finished which is when they earn their reward.  The child can track the rewards they earn to the goal that has been set up and once they reach the target reward/goal the parents are then able to give the child the treat they earned.  The "rewards" are selected by the parents and child, so for example an older child or teenager may elect to earn money while a younger child may want to earn stars/badges etc.',
         image: {
-            picture: './images/chores.jpg',
+            picture: './chores.jpg',
             width: 408,
             height: 497
         },

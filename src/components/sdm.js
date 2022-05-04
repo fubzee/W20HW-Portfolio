@@ -3,12 +3,16 @@ import '../styles/main.css';
 
 export default function SDM() {
   return (
-  
-    <div> 
+    <div>
+    <br></br>
+    <br></br>
+    <br></br>
         <div className= "container">
             <div className = "row">
                 <div className = "col-md-6 align-self-start">
                     <h3> Solution Delivery Manager</h3>
+                    <br></br>
+                    <br></br>
                         <p>    Management of the Solution Delivery Team comprising: </p>
                     <ul>
                         <li>Systems Analysis and Design,</li>
@@ -28,6 +32,8 @@ export default function SDM() {
                 </div>   
                 <div className = "col-md-6 align-self-start">
                     <h3> Senior Systems Manager</h3>
+                    <br></br>
+                    <br></br>
                         <p>Management of the business change function and a team of BSAs (Business Systems Analysts)</p>
                     <ul>
                         <li>Resource planning/activity project scheduling </li>
