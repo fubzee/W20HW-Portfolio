@@ -1,6 +1,6 @@
 # W20HW-Portfolio
 
-https://fubzee.github.io/W20HW-Portfolio/
+https://fubzee.github.io/w20hw-portfolio/
 
 https://github.com/fubzee/W20HW-Portfolio
 
