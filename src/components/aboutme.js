@@ -37,6 +37,7 @@ export default function About() {
                 </Link>
             </div>
         </div>
+        <br></br>
     </div>
     <br></br>
     <h2 id="About"> </h2>

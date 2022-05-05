@@ -52,7 +52,7 @@ export default function Landing() {
                         </div>
                         <div className = "col-md-8" >
                             <section className="BannerBox">
-                                <img id="heroimg" alt="" src="/1075701.jpg" width = "600" height = "367"></img>
+                                <img id="heroimg" alt="" src="./1075701.jpg" width = "600" height = "400"></img>
                             </section>
                         </div>
                         <div className = "col-md-2" >
@@ -61,14 +61,10 @@ export default function Landing() {
                         </div>
                     </div>
                     <br></br>  
-                    <br></br>  
-                    <br></br>  
                     <br></br>
                     <div className ="row">
                         <div className = "col-md-12">
                             <div className="row"> 
-                                <br></br>  
-                                <br></br>  
                                 <br></br>  
                                 <br></br>  
                                 <p>I have discovered a love for creating things for the web!</p>  

@@ -7,8 +7,6 @@ export default function Me() {
         <div className = "container">
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
             <div className="row">
                 <h3 >About Me</h3>
             <br></br>
@@ -38,6 +36,13 @@ export default function Me() {
                 the link is in the contact details section.  
                 </p> 
             </div>
+            <hr></hr>
+                <p className = "cert">
+                Certificate: Full Stack Development - Sydney University
+                </p>
+                <p className = "cert">
+                Degree: BCom Information Systems - UNISA
+                </p>
         </div>
     </div>
 )};
