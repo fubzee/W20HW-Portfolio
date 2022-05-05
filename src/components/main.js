@@ -24,21 +24,21 @@ export default function Landing() {
                         <div className = "col-md-3">    
                             <Link
                                className="button"
-                                to={`./aboutme`} 
+                                to={`/w20hw-portfolio/aboutme`} 
                                 >About Me
                             </Link>
                         </div> 
                         <div className = "col-md-3"> 
                             <Link
                                 className="button"
-                                to={`./Projects`}
+                                to={`/w20hw-portfolio/Projects`}
                                 >Projects
                             </Link>
                         </div>
                         <div className = "col-md-3"> 
                             <Link
                                 className="button"
-                                to={`./Contacts`}
+                                to={`/w20hw-portfolio/Contacts`}
                                 >Contacts
                             </Link>
                         </div>
@@ -52,7 +52,7 @@ export default function Landing() {
                         </div>
                         <div className = "col-md-8" >
                             <section className="BannerBox">
-                                <img id="heroimg" alt="" src="./1075701.jpg" width = "600" height = "367"></img>
+                                <img id="heroimg" alt="" src="/1075701.jpg" width = "600" height = "367"></img>
                             </section>
                         </div>
                         <div className = "col-md-2" >

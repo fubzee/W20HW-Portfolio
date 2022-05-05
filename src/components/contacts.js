@@ -14,21 +14,21 @@ export default function Contacts() {
                 <div className = "col-md-3"> 
                     <Link
                         className="button"
-                        to={`/`}
+                        to={`/w20hw-portfolio/`}
                         >Home
                     </Link>
                 </div>
                 <div className = "col-md-3">    
                     <Link
                     className="button"
-                        to={`/aboutme`} 
+                        to={`/w20hw-portfolio/aboutme`} 
                         >About Me
                     </Link>
                 </div> 
                 <div className = "col-md-3"> 
                     <Link
                         className="button"
-                        to={`/Projects`}
+                        to={`/w20hw-portfolio/Projects`}
                         >Projects
                     </Link>
                 </div>

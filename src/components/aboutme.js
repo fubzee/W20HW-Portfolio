@@ -18,21 +18,21 @@ export default function About() {
             <div className = "col-md-3">    
                 <Link
                 className="button"
-                    to={`/`} 
+                    to={`/w20hw-portfolio/`} 
                     >Home
                 </Link>
             </div> 
             <div className = "col-md-3"> 
                 <Link
                     className="button"
-                    to={`/Projects`}
+                    to={`/w20hw-portfolio/Projects`}
                     >Projects
                 </Link>
             </div>
             <div className = "col-md-3"> 
                 <Link
                     className="button"
-                    to={`/Contacts`}
+                    to={`/w20hw-portfolio/Contacts`}
                     >Contact Details
                 </Link>
             </div>

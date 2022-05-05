@@ -19,7 +19,7 @@ https://github.com/fubzee/W20HW-Portfolio
 **Introduction:** 
 
 When you click on the link you will be presented with my development portfolio, some information about me and some of the 
-projects or class assignments that I have worked on that details the technologies used.  Included is a summary of my 
+projects or class assignments that I have worked on, that details the technologies used.  Included is a summary of my 
 over all IT experienceand a link to some contact details.
 
 **The Assignment:** 

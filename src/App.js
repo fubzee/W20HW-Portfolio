@@ -13,19 +13,19 @@ function App() {
           <div>
           <Routes>
               <Route 
-              path="/" 
+              path="/w20hw-portfolio/" 
               element={< Landing/>} 
               />
               <Route 
-              path="/aboutme" 
+              path="/w20hw-portfolio/aboutme" 
               element={< About/>} 
               />
               <Route 
-              path="/projects" 
+              path="/w20hw-portfolio/projects" 
               element={ <Projects />} 
               />
               <Route 
-              path="/contacts" 
+              path="/w20hw-portfolio/contacts" 
               element={< Contacts />} 
               />
           </Routes>  
